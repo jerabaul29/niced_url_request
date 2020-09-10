@@ -26,7 +26,7 @@ For a detailed example: see ```examples``` folder.
 
 Small start up example:
 
-```
+```python
 from niced_url_request import NicedUrlRequest
 
 niced_requester = NicedUrlRequest()
