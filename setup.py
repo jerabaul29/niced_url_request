@@ -20,6 +20,6 @@ setuptools.setup(
     ],
     install_requires=[
         "raise_assert>=0.2"
-    ]
+    ],
     python_requires='>=3.5',
 )

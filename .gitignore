@@ -4,4 +4,4 @@
 *.swp
 build/
 dist/
-raise_assert.egg-info/
+niced_url_request.egg-info/
